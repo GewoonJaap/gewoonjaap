@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, my name is Jaap! 👋
 
-<!--
-**GewoonJaap/gewoonjaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student! 
+ I'm currently studying Software Development at Avans Hogeschool.
+<br>
+In my spare time I am working on a few projects: <br>
+- Escapos, cops and robbers multiplayer game, made with: Unreal Engine 4, NODE.JS, C++ and Google Cloud
+- Micrsoft Flight Simulator 2020 Livery Manager, a program made with electron.js, NODE.JS and Google Cloud to install/update/delete liveries or scenery.
+- Building Discord bots, I use discord.js, NODE.JS to make Discord bots for other people. I am also a `Verified Discord Bot Developer`.
+- Zevenbeek, just trying to break stuff or hack into systems, and fix them :D
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Connect with me:
+[<img align="left" alt="mrproper.dev | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
+
+<br />
+<br />
+
+---
+
+<img align="left" alt="jaap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gewoonjaap&show_icons=true&hide_border=true">
+
+[website]: https://mrproper.dev
