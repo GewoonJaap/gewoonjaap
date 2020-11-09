@@ -4,10 +4,9 @@
  I'm currently studying Software Development at Avans Hogeschool.
 <br>
 In my spare time I am working on a few projects: <br>
-- Escapos, cops and robbers multiplayer game, made with: Unreal Engine 4, NODE.JS, C++ and Google Cloud
+- Escapos, cops and robbers multiplayer game, made with: Unreal Engine 4, NODE.JS, C++ and Google Cloud.
 - Micrsoft Flight Simulator 2020 Livery Manager, a program made with electron.js, NODE.JS and Google Cloud to install/update/delete liveries or scenery.
 - Building Discord bots, I use discord.js, NODE.JS to make Discord bots for other people. I am also a `Verified Discord Bot Developer`.
-- Zevenbeek, just trying to break stuff or hack into systems, and fix them :D
 
 
 <br>
