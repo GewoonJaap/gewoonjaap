@@ -22,4 +22,6 @@ In my spare time I am working on a few projects: <br>
 <img align="left" alt="jaap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gewoonjaap&show_icons=true&hide_border=true">
 <img align="left" alt="jaap's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GewoonJaap&hide=batchfile">
 
+[![An image of @gewoonjaap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gewoonjaap)](https://holopin.io/@gewoonjaap)
+
 [website]: https://mrproper.dev
